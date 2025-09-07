@@ -81,7 +81,7 @@ dc-flow/
 ├─ src/
 │  └─ dc_flow.py
 ├─ outputs/
-│  └─ sample_output.xlsx
+│  └─ resultsdc.xlsx
 ├─ docs/
 │  └─ dc_flow_problem_statement.png
 ├─ requirements.txt
