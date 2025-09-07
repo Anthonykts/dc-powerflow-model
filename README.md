@@ -76,14 +76,19 @@ python src/dc_flow.py
 
 ## Project Structure
 
+```
 dc-flow/
-├── src/
-│   └── dc_flow.py
-├── outputs/
-│   └── sample_output.xlsx
-├── docs/
-│   └── dc_flow_problem_statement.png
-├── requirements.txt
+├─ src/
+│  └─ dc_flow.py
+├─ outputs/
+│  └─ sample_output.xlsx
+├─ docs/
+│  └─ dc_flow_problem_statement.png
+├─ requirements.txt
+├─ README.md
+├─ LICENSE
+└─ .gitignore
+```
 
 ## License
 
